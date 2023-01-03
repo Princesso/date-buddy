@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Princesso/date-buddy.git/static/css/main.2ad44f8b.css",
+    "main.js": "/Princesso/date-buddy.git/static/js/main.6eca3724.js",
+    "static/js/787.db3924d2.chunk.js": "/Princesso/date-buddy.git/static/js/787.db3924d2.chunk.js",
+    "index.html": "/Princesso/date-buddy.git/index.html",
+    "main.2ad44f8b.css.map": "/Princesso/date-buddy.git/static/css/main.2ad44f8b.css.map",
+    "main.6eca3724.js.map": "/Princesso/date-buddy.git/static/js/main.6eca3724.js.map",
+    "787.db3924d2.chunk.js.map": "/Princesso/date-buddy.git/static/js/787.db3924d2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2ad44f8b.css",
+    "static/js/main.6eca3724.js"
+  ]
+}
